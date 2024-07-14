@@ -103,7 +103,6 @@ p {
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     border: solid 0.1rem rgba(0, 0, 0, 0.048);
-
 }
 
 .section-glass > h2{
